@@ -1,5 +1,5 @@
 # python-project
 beginners friendly project
 
-start the project (good)
+start the project (yes)
 
